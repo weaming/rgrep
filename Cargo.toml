@@ -1,0 +1,8 @@
+[package]
+name = "rgrep"
+version = "0.1.0"
+authors = ["weaming <garden.yuen@gmail.com>"]
+description = "rust book demo"
+license = "MIT"
+
+[dependencies]
